@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintArgs": ["-generate-members","-extension-pkg-whitelist=cv2"],
+    "python.autoComplete.extraPaths": [
+        "/Users/xuhaiyang/Softwares/anaconda3/envs/torch/lib/python3.10/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/Users/xuhaiyang/Softwares/anaconda3/envs/torch/lib/python3.10/site-packages"
+    ],
+}
